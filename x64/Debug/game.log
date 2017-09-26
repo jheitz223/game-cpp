@@ -1,0 +1,6 @@
+﻿  game.cpp
+c:\users\jonathan heitz\source\repos\game\game\game.cpp(48): warning C4102: 'EnableDeveloperCommentary': unreferenced label
+c:\users\jonathan heitz\source\repos\game\game\game.cpp(20): warning C4101: 'depositAmt': unreferenced local variable
+c:\users\jonathan heitz\source\repos\game\game\game.cpp(20): warning C4101: 'withdrawAmt': unreferenced local variable
+  game.vcxproj -> C:\Users\Jonathan Heitz\source\repos\game\x64\Debug\game.exe
+  game.vcxproj -> C:\Users\Jonathan Heitz\source\repos\game\x64\Debug\game.pdb (Partial PDB)
